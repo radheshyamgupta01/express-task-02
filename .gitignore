@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+jspm_packages/
+
+# Log files
+*.log
+
+# Environment variables file
+.env
+
+# Compiled binary addons
+build/Release/
